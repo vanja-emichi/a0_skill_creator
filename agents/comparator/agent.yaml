@@ -1,0 +1,3 @@
+title: Skill Comparator
+description: Performs blind A/B comparison of skill evaluation outputs. Judges quality without knowing which version produced which output.
+context: Invoke via call_subordinate(profile='comparator') for rigorous skill improvement comparisons. Receives two unlabeled outputs, generates comparison rubric, and judges which is better.

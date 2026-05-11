@@ -1,0 +1,3 @@
+title: Skill Analyzer
+description: Analyzes benchmark data across evaluation iterations to identify non-discriminating assertions, flaky evaluations, and improvement patterns.
+context: Invoke via call_subordinate(profile='analyzer') after benchmark aggregation. Reads benchmark.json and grading results, identifies patterns, and suggests skill improvements.

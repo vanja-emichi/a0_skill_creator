@@ -1,0 +1,11 @@
+name: a0_skill_creator
+title: A0 Skill Creator
+description: >-
+  Full quality engineering pipeline for creating, evaluating, benchmarking,
+  and iteratively improving Agent Zero skills. Ports Anthropic's skill-creator
+  architecture to Agent Zero's tool model with specialized grader, comparator,
+  and analyzer agent profiles.
+version: 1.0.0
+settings_sections: []
+per_project_config: false
+per_agent_config: false
